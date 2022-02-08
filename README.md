@@ -1,7 +1,7 @@
 
 
 
-<img src="imagenes/logo.png"  width=60% height=60%>
+<img src="imagenes/logo.png"  width=60% height=60%;"/>
 
 # splunk>
 
@@ -115,7 +115,7 @@ El objetivo en este caso es enviar alertas cuando se intente varias veces accede
 
 **Crear alertas en Splunk**
 
-
+ width=50% height=50%>
 
 Completaremos nuestra busqueda de información con "authentication failure":
 
