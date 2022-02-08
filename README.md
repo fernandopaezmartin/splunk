@@ -79,6 +79,14 @@ En nuestro ejemplo, hemos agregado la ruta al fichero que queremos monitorizar:
 
 -Se encuantra en **/var/log/auth.log**
 
+
+![](imagenes/14.png)
+
+
+![](imagenes/15.png)
+
+![](imagenes/16.png)
+
 Una simple búsqueda del query “ssh” mostrará toda la información recibida desde el servidor proxy con datos relacionados a "ssh". 
 
 
