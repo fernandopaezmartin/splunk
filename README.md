@@ -1,7 +1,7 @@
 
 
 
-<img src="imagenes/logo.png"  width=50% height=50%>
+<img src="imagenes/logo.png"  width=60% height=60%>
 
 # splunk>
 
