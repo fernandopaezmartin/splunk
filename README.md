@@ -127,7 +127,6 @@ El objetivo en este caso es enviar alertas cuando se intente varias veces accede
 
 **Crear alertas en Splunk**
 
- width=50% height=50%>
 
 Completaremos nuestra busqueda de información con "authentication failure":
 
@@ -151,13 +150,13 @@ A partir de ahora eligiendo nuestro report nos dará la información más rápid
 
 Para crear una alerta sobre nuestro report le indicamos ahora a splunk:
 
-<img src="imagenes/9.png" width="350" height="517" />
+<img src="imagenes/9.png"/>
 
 1. Tipo de alerta: en tiempo real.
 2. Si se superan el valor de 5 intentos fallidos desde la misma máquina remota.
 3. Se creará una alerta en nuestro Dashboard y enviará un correo con el aviso.
 
-<img src="imagenes/10.png"  width="350" height="517"/>
+<img src="imagenes/10.png"/>
 
 
 
@@ -181,4 +180,3 @@ Se le pueden añadir otros paneles como estos:
 
 
 <hr /> 
-<hr />
