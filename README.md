@@ -1,8 +1,21 @@
 
 
 
+
+[<img src="imagenes/thumb.jpg" width="450" height="250">](https://youtu.be/D1SkkIKwW28)
+
+
+[**Enlace al video de la práctica**](https://youtu.be/D1SkkIKwW28)
+
+<hr /> 
+
+
+
+
+
+
 <img src="imagenes/logo.png" width="250" height="250">
-# splunk>
+
 
 Es un software de agregación de datos o plataforma de Big Data que permite recolectar e indexar la información generada por cualquier dispositivo en tiempo real y buscar información dentro de ellos, siendo muy utilizado para análisis empresarial y web, gestión de aplicaciones, cumplimiento y seguridad. 
 
