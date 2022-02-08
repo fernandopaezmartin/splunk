@@ -75,6 +75,9 @@ Splunk Indexer escucha los datos entrantes a través del Puerto 9997.
 **Monitorización de ficheros** 
 
 Cabe la posibilidad de controlar ficheros log como el caso de los accesos por ssh a un servidor, protegiendo de posibles intentos por fuerza bruta al superar el nivel que se indique en nuestro indexador.
+En nuestro ejemplo, hemos agregado la ruta al fichero que queremos monitorizar:
+
+-Se encuantra en **/var/log/auth.log**
 
 Una simple búsqueda del query “ssh” mostrará toda la información recibida desde el servidor proxy con datos relacionados a "ssh". 
 
