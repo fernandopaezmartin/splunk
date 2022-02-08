@@ -79,11 +79,16 @@ En nuestro ejemplo, hemos agregado la ruta al fichero que queremos monitorizar:
 
 -Se encuantra en **/var/log/auth.log**
 
+- Añadimos el fichero en Splunk
 
 ![](imagenes/14.png)
 
 
+- Le indicamos a Splunk que lo queremos en **"modo monitor".**
+
 ![](imagenes/15.png)
+
+Buscamos su ruta y continuamos el asistente para guardar esta búsqueda.
 
 ![](imagenes/16.png)
 
