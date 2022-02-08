@@ -145,4 +145,3 @@ En nuestro caso hemos configurado nuestro dashboard para que nos muestre cada mi
 Se le pueden añadir otros paneles como estos:
 
 ![](imagenes/13.png)
-
