@@ -151,13 +151,13 @@ A partir de ahora eligiendo nuestro report nos dará la información más rápid
 
 Para crear una alerta sobre nuestro report le indicamos ahora a splunk:
 
-<img src="imagenes/9.png" style="zoom:45%;" />
+<img src="imagenes/9.png" width="350" height="517" />
 
 1. Tipo de alerta: en tiempo real.
 2. Si se superan el valor de 5 intentos fallidos desde la misma máquina remota.
 3. Se creará una alerta en nuestro Dashboard y enviará un correo con el aviso.
 
-<img src="imagenes/10.png" style="zoom:45%;" />
+<img src="imagenes/10.png"  width="350" height="517"/>
 
 
 
@@ -178,3 +178,7 @@ En nuestro caso hemos configurado nuestro dashboard para que nos muestre cada mi
 Se le pueden añadir otros paneles como estos:
 
 ![](imagenes/13.png)
+
+
+<hr /> 
+<hr />
