@@ -42,7 +42,7 @@ Por ejemplo, Splunk es el encargado de importar todos los logs y realizar la com
 
 
 ![](imagenes/proxy_y_splunk.jpg)
-<<<<<<< HEAD
+
 
 *Prueba de Splunk con Proxy como reenviador*
 
@@ -139,10 +139,6 @@ La alerta se podrá modificar y deshabilitar en todo momento en el panel de aler
 Es un panel donde podemos configurar gráficas y widgets para tener de forma visual un report sobre un evento:
 
 En nuestro caso hemos configurado nuestro dashboard para que nos muestre cada minuto una gráfica con los intentos fallidos a nuestro servidor ssh a partir del quinto intento.
-
-=======
->>>>>>> a4ed2b5ea074606eca4e6e6e71979a20fe6f2ad6
-
 
 ![](imagenes/12.png)
 
